@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/task3/gui/gui.iml" filepath="$PROJECT_DIR$/task3/gui/gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task3/registration/registration.iml" filepath="$PROJECT_DIR$/task3/registration/registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zad3_RegistrationForm.iml" filepath="$PROJECT_DIR$/.idea/zad3_RegistrationForm.iml" />
+    </modules>
+  </component>
+</project>

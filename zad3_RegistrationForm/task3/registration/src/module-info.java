@@ -1,0 +1,3 @@
+module registration {
+    exports registrators;
+}
